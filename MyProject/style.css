@@ -1,0 +1,160 @@
+#tip1 
+{
+	position: absolute;
+	z-index: 9999;
+	
+	/* Specify the location of the tip */
+	left: 332px;
+	top: 205px;
+
+}
+
+#tip2 
+{
+	position: absolute;
+	z-index: 9999;
+
+	/* Set to visible when you want to use this tip */
+	visibility: visible;
+	
+	/* Specify the location of the tip */
+	left: 385px;
+	top: 405px;
+
+}
+
+#tip3 
+{
+	position: absolute;
+	z-index: 9999;
+
+	/* Set to visible when you want to use this tip */
+	visibility: visible;
+	
+	/* Specify the location of the tip */
+	left: 492px;
+	top: 587px;
+}
+
+#tip4 
+{
+	position: absolute;
+	z-index: 9999;
+
+	/* Set to visible when you want to use this tip */
+	visibility: visible;
+	
+	/* Specify the location of the tip */
+	left: 192px;
+	top: 643px;
+
+}
+
+#tip5 
+{
+	position: absolute;
+	z-index: 9999;
+
+	/* Set to visible when you want to use this tip */
+	visibility: hidden;
+	
+	/* Specify the location of the tip */
+	left: 385px;
+	top: 422px;
+
+}
+
+#tip6 
+{
+	position: absolute;
+	z-index: 9999;
+
+	/* Set to visible when you want to use this tip */
+	visibility: hidden;
+	
+	/* Specify the location of the tip */
+	left: 385px;
+	top: 422px;
+
+}
+
+#tip7 
+{
+	position: absolute;
+	z-index: 9999;
+
+	/* Set to visible when you want to use this tip */
+	visibility: hidden;
+	
+	/* Specify the location of the tip */
+	left: 385px;
+	top: 422px;
+
+}
+
+#tip8 
+{
+	position: absolute;
+	z-index: 9999;
+
+	/* Set to visible when you want to use this tip */
+	visibility: hidden;
+	
+	/* Specify the location of the tip */
+	left: 385px;
+	top: 422px;
+
+}
+
+#tip9 
+{
+	position: absolute;
+	z-index: 9999;
+
+	/* Set to visible when you want to use this tip */
+	visibility: hidden;
+	
+	/* Specify the location of the tip */
+	left: 385px;
+	top: 422px;
+
+}
+
+#tip10 
+{
+	position: absolute;
+	z-index: 9999;
+
+	/* Set to visible when you want to use this tip */
+	visibility: hidden;
+	
+	/* Specify the location of the tip */
+	left: 385px;
+	top: 422px;
+
+}
+
+body 
+{
+	background-color: #fff;
+	color: #0b0b0b;
+	font-size: 16px;
+	line-height: 22px;
+}
+
+#main-div 
+{
+	position: relative;
+	top: 0;
+	left: 0;
+
+	height: 100%;
+	width: 100%;
+}
+
+#main-image 
+{
+    position: relative;
+    top: 0;
+    left: 0; 
+}
